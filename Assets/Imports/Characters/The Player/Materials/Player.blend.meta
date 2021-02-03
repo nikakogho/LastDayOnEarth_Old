@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: da70d3ed40ce20e40994a548f4aaeaa8
+timeCreated: 1531047628
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: Fingers01_L
+    100008: Fingers01_R
+    100010: Fingers02_L
+    100012: Fingers02_R
+    100014: Foot_L
+    100016: Foot_R
+    100018: Hair
+    100020: Hand_L
+    100022: Hand_R
+    100024: Head
+    100026: Helmet
+    100028: Hips
+    100030: Lower_Arm_L
+    100032: Lower_Arm_R
+    100034: Lower_Leg_L
+    100036: Lower_Leg_R
+    100038: Neck
+    100040: Pants
+    100042: Platebody
+    100044: Platelegs
+    100046: //RootNode
+    100048: Shirt
+    100050: Shoes
+    100052: Shoulder_L
+    100054: Shoulder_R
+    100056: Spine
+    100058: Thumb01_L
+    100060: Thumb01_R
+    100062: Thumb02_L
+    100064: Thumb02_R
+    100066: Toes_L
+    100068: Toes_R
+    100070: Upper_Arm_L
+    100072: Upper_Arm_R
+    100074: Upper_Leg_L
+    100076: Upper_Leg_R
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: Fingers01_L
+    400008: Fingers01_R
+    400010: Fingers02_L
+    400012: Fingers02_R
+    400014: Foot_L
+    400016: Foot_R
+    400018: Hair
+    400020: Hand_L
+    400022: Hand_R
+    400024: Head
+    400026: Helmet
+    400028: Hips
+    400030: Lower_Arm_L
+    400032: Lower_Arm_R
+    400034: Lower_Leg_L
+    400036: Lower_Leg_R
+    400038: Neck
+    400040: Pants
+    400042: Platebody
+    400044: Platelegs
+    400046: //RootNode
+    400048: Shirt
+    400050: Shoes
+    400052: Shoulder_L
+    400054: Shoulder_R
+    400056: Spine
+    400058: Thumb01_L
+    400060: Thumb01_R
+    400062: Thumb02_L
+    400064: Thumb02_R
+    400066: Toes_L
+    400068: Toes_R
+    400070: Upper_Arm_L
+    400072: Upper_Arm_R
+    400074: Upper_Leg_L
+    400076: Upper_Leg_R
+    4300000: Helmet
+    4300002: Platebody
+    4300004: Platelegs
+    4300006: Hair
+    4300008: Shoes
+    4300010: Shirt
+    4300012: Pants
+    4300014: Body
+    7400000: Default Take
+    7400002: Idle
+    7400004: Run
+    7400006: Walk
+    9500000: //RootNode
+    13700000: Body
+    13700002: Hair
+    13700004: Helmet
+    13700006: Pants
+    13700008: Platebody
+    13700010: Platelegs
+    13700012: Shirt
+    13700014: Shoes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
